@@ -1,0 +1,52 @@
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.deps.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.runtimeconfig.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.deps.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.runtimeconfig.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.deps.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.runtimeconfig.json
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.dll
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.pdb
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.dll
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.dll
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.pdb
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.pdb
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.AssemblyReference.cache
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.GeneratedMSBuildEditorConfig.editorconfig
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfoInputs.cache
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfo.cs
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.CoreCompileInputs.cache
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.CopyComplete
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.dll
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/refint/OOP-ICT.Third.dll
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.pdb
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.genruntimeconfig.cache
+/home/astukalov/Documents/ITMO/OOP/TUTOR03/OOP-ICT.Third/obj/Debug/net6.0/ref/OOP-ICT.Third.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.deps.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.runtimeconfig.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.deps.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.runtimeconfig.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.deps.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.runtimeconfig.json
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.pdb
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.First.pdb
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Second.pdb
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.AssemblyReference.cache
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfoInputs.cache
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfo.cs
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.CoreCompileInputs.cache
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.CopyComplete
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/refint/OOP-ICT.Third.dll
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.pdb
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.genruntimeconfig.cache
+/Users/artboch/ITMO/OOP/Version - B/OOP-ICT.Third/obj/Debug/net6.0/ref/OOP-ICT.Third.dll
